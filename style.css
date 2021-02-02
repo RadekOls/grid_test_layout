@@ -40,3 +40,14 @@ body{
     grid-area: footer;
     background-color: blue;
 }
+
+
+@media screen and (max-width:768px){
+    body{
+        background-color:red;  } 
+
+@media screen and (max-width:414px){
+body{
+    background-color: white;  } 
+}
+
